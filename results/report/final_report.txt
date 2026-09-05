@@ -1,0 +1,12 @@
+Cancer Variant Calling Pipeline - Final Report
+==================================================
+
+Total variants found: 1
+
+Chromosome: chr1_test
+Position: 28
+Reference: A
+Alternate: T
+Quality: 17.4923
+Info: DP=4;VDB=0.0058656;SGB=-0.556411;MQ0F=0;AC=2;AN=2;DP4=0,0,4,0;MQ=60;ANNOTATION=SNV_A>T_at_chr1_test:28
+--------------------------------------------------

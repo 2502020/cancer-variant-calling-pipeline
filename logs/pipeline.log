@@ -1,0 +1,32 @@
+2026-09-05 11:04:30,584 - INFO - Pipeline started
+2026-09-05 11:04:30,587 - INFO - Starting stage: Quality Control
+2026-09-05 11:04:41,821 - INFO - Completed stage: Quality Control
+2026-09-05 11:04:41,828 - INFO - Starting stage: Alignment
+2026-09-05 11:04:41,886 - INFO - Completed stage: Alignment
+2026-09-05 11:04:41,886 - INFO - Starting stage: BAM Processing
+2026-09-05 11:04:41,978 - INFO - Completed stage: BAM Processing
+2026-09-05 11:04:41,979 - INFO - Starting stage: Variant Calling
+2026-09-05 11:04:42,384 - INFO - Completed stage: Variant Calling
+2026-09-05 11:04:42,384 - INFO - Starting stage: Filtering
+2026-09-05 11:04:42,403 - INFO - Completed stage: Filtering
+2026-09-05 11:04:42,404 - INFO - Starting stage: Annotation
+2026-09-05 11:04:42,406 - INFO - Completed stage: Annotation
+2026-09-05 11:04:42,406 - INFO - Starting stage: Report Generation
+2026-09-05 11:04:42,408 - INFO - Completed stage: Report Generation
+2026-09-05 11:04:42,410 - INFO - Pipeline completed successfully
+2026-09-05 11:24:33,653 - INFO - Pipeline started
+2026-09-05 11:24:33,656 - INFO - Starting stage: Quality Control
+2026-09-05 11:24:41,861 - INFO - Completed stage: Quality Control
+2026-09-05 11:24:41,862 - INFO - Starting stage: Alignment
+2026-09-05 11:24:41,934 - INFO - Completed stage: Alignment
+2026-09-05 11:24:41,935 - INFO - Starting stage: BAM Processing
+2026-09-05 11:24:41,998 - INFO - Completed stage: BAM Processing
+2026-09-05 11:24:41,999 - INFO - Starting stage: Variant Calling
+2026-09-05 11:24:42,430 - INFO - Completed stage: Variant Calling
+2026-09-05 11:24:42,431 - INFO - Starting stage: Filtering
+2026-09-05 11:24:42,433 - INFO - Completed stage: Filtering
+2026-09-05 11:24:42,433 - INFO - Starting stage: Annotation
+2026-09-05 11:24:42,435 - INFO - Completed stage: Annotation
+2026-09-05 11:24:42,435 - INFO - Starting stage: Report Generation
+2026-09-05 11:24:42,437 - INFO - Completed stage: Report Generation
+2026-09-05 11:24:42,437 - INFO - Pipeline completed successfully

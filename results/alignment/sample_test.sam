@@ -1,0 +1,4 @@
+@SQ	SN:chr1_test	LN:120
+@PG	ID:bwa	PN:bwa	VN:0.7.17-r1188	CL:bwa mem data/reference/reference.fa data/input/sample_test.fastq
+SEQ_ID_1	0	chr1_test	1	60	60M	*	0	0	GATTTGGGGTTCAAAGCAGTATCGATCAAATAGTAAATCCATTTGTTCAACTCACAGTTT	!''*((((***+))%%%++)(%%%%).1***-+*''))**55CCF>>>>>>CCCCCCC65	NM:i:0	MD:Z:60	AS:i:60	XS:i:0
+SEQ_ID_2	0	chr1_test	61	60	60M	*	0	0	CGATCGATCGATCGTAGCTAGCTAGCTAGCATCGATCGATCGTAGCTAGCTAGCTAGCAT	!''*((((***+))%%%++)(%%%%).1***-+*''))**55CCF>>>>>>CCCCCCC65	NM:i:0	MD:Z:60	AS:i:60	XS:i:0

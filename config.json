@@ -2,5 +2,5 @@
     "input_dir": "data/input",
     "output_dir": "results",
     "reference": "data/reference/reference.fa",
-    "quality_threshold": 30
+    "quality_threshold": 15
 }
